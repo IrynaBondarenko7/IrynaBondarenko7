@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iryna</h1>
 <h3 align="center">A passionate Full Stack Developer originally from Ukraine</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif">
-- 👨‍💻 All of my projects are available at <a href="https://iryna-bd-projects-portfolio.netlify.app/" target="blank">portfolio</a>.
+- 👨‍💻 All of my projects are available at <a href="https://iryna-bond-portfolio.vercel.app/" target="blank">portfolio</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
